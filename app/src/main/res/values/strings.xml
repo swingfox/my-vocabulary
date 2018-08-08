@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Vocabulary</string>
+    <string name="txtHelp">
+        Help:\n\n
+        The game consist of 9 levels with 4 stages each.
+        every stage requires 3 words to proceed to the next stage.
+        as you proceed to the higher levels, the difficuty of the
+        each stages also increases. each stages has a corresponding
+        star points which you can later used to buy some power up\'s
+        which you can use to manipulate the game.\n\n
+
+        How to play:\n\n
+        1. You need to tap on the bule icon to generate a single random letter
+            that will be added to your queue.\n\n
+
+        2. As your queue is filled with random letters, you are now then required
+           to form it into a word and tap on the teal icon to submit it.\n\n
+
+        3. You are require to finish each stage within the time limit.\n\n
+
+        4. Stars are earned depending on the words that you formed which
+           you can later used to buy some special ability.\n\n
+    </string>
+
+</resources>

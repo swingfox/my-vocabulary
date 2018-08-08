@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\Desktop\MyVocabulary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\David\Desktop\MyVocabulary\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_43528e92255f5c49ae3b38201ba2f1d5c2d2e01a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\Desktop\MyVocabulary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b896b52b2c1b33aa8f0fc567aed084fc66932f6e">
+        <dex dex="C:\Users\David\Desktop\MyVocabulary\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1fa7584f37a99792faa9f7a6fb28d713b57bd2b8\classes.dex" />
+    </item>
+
+</items>
